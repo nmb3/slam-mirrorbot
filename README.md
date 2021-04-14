@@ -29,8 +29,6 @@ This is a telegram bot writen in python for mirroring files on the internet to o
 - Custom Filename (Only for url, telegram files and ytdl. Not for mega links and magnet/torrents)
 - Extracting password protected files and using custom filename see these examples:
 <p><a href="https://telegra.ph/Magneto-Python-Aria---Custom-Filename-Examples-01-20"> <img src="https://img.shields.io/badge/custom%20filename%20examples-grey?style=for-the-badge&logo=telegram" width="250""/></a></p>
-
-> https://telegra.ph/Magneto-Python-Aria---Custom-Filename-Examples-01-20
 - Extract these filetypes and uploads to google drive
 ```
 ZIP, RAR, TAR, 7z, ISO, WIM, CAB, GZIP, BZIP2, 
