@@ -252,6 +252,9 @@ machine host login username password my_youtube_password
 ```
 where host is the name of extractor (eg. youtube, twitch). Multiple accounts of different hosts can be added each separated by a new line
 
+# Support Group
+<a href="https://t.me/SlamMirrorSupport"><img alt="Slam Mirror Support" src="https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40SlamMirrorSupport&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DSlamMirrorSupport&longCache=true" width="200"/></a>
+
 # Credits
 
 Thanks to:
