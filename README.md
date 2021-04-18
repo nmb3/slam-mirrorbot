@@ -254,7 +254,7 @@ where host is the name of extractor (eg. youtube, twitch). Multiple accounts of 
 
 # Support Group
 <a href="https://t.me/SlamMirrorSupport"><img alt="Slam Mirror Support" src="https://img.shields.io/badge/dynamic/json?logo=telegram-blueviolet?style=for-the-badge&label=%40SlamMirrorSupport&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DSlamMirrorSupport&longCache=true" width="200"/></a>
-<p><a href="https://t.me/SlamMirrorSupport"> <img src="https://img.shields.io/badge/Slam%20Mirror%20Support-black?style=for-the-badge&logo=telegram&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DSlamMirrorSupport&longCache=true" width="200""/></a></p>
+<p><a href="https://t.me/SlamMirrorSupport"> <img src="https://img.shields.io/badge/Slam%20Mirror%20Support-black?style=for-the-badge&logo=telegram" width="200""/></a></p>
 
 # Credits
 
