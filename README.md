@@ -2,6 +2,8 @@
 
 # Slam Mirror Bot
 ![Contributors](https://img.shields.io/github/contributors/breakdowns/slam-mirrorbot)
+![Repo Size](https://img.shields.io/github/repo-size/breakdowns/slam-mirrorbot)
+
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
 
 # Features supported:
